@@ -1,0 +1,29 @@
+{
+  "name": "serverless-demo",
+  "version": "1.0.0",
+  "description": "AWS Serverless aka Functions-as-a-Service using Lambda and API Gateway",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernestgwilsonii/aws-serverless-example.git"
+  },
+  "keywords": [
+    "amazon",
+    "aws",
+    "lambda",
+    "faas",
+    "serverless",
+    "api",
+    "gateway",
+    "nodejs"
+  ],
+  "author": "Ernest G. Wilson II <ErnestGWilsonII@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ernestgwilsonii/aws-serverless-example/issues"
+  },
+  "homepage": "https://github.com/ernestgwilsonii/aws-serverless-example#readme"
+}
